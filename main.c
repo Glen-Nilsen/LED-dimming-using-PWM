@@ -26,6 +26,8 @@
 
 /*
     Main application
+    The example demonstrates the basic functionality of Timer/Counter Type A (TCA) used to generate a PWM signal. 
+    The generated PWM signal produces the dimming effect of the on-board LED.
 */
 
 int main(void)
